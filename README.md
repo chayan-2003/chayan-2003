@@ -17,7 +17,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chayan-ghosh-930a2a249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chayan-ghosh-930a2a249" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/learnerrrrr123" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="learnerrrrr123" height="30" width="40" />
 <a href="https://www.hackerrank.com/chayanghosh185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chayanghosh185" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/chayang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="chayang" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chayanghosh185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chayanghosh185" height="30" width="40" /></a>
