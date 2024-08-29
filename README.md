@@ -1,6 +1,6 @@
 ![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
 <h1 align="center">Hi 👋, I'm Chayan Ghosh</h1>
-<h3 align="center">Competitive programmer and a passionate fullstack developer from India</h3>
+<h3 align="center">BEGINNER IN LIFE AND PROGRAMMING</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayan-2003&label=Profile%20views&color=0e75b6&style=flat" alt="chayan-2003" /> </p>
 
