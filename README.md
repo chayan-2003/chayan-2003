@@ -4,15 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayan-2003&label=Profile%20views&color=0e75b6&style=flat" alt="chayan-2003" /> </p>
 
-- 🔭 I’m currently working on [MERN STACK](https://mbbconsultancy.in/)
-
-- 🌱 I’m currently learning **MONGO DB,REACT,EXPRESS JS,NODE JS ,ALGORITHMIC PROBLEMS,LINUX ,SHELL SCRIPTING**
-
-- 👯 I’m looking to collaborate on **software projects**
-
-- 📫 How to reach me **chayanghosh185@gmail.com**
-
-- ⚡ Fun fact **I think i am funny**
+- 🔭 FIGURING OUT WHAT I AM GOOD AT .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
