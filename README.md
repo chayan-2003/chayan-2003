@@ -1,4 +1,3 @@
-![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
 <h1 align="center">Hi 👋, I'm Chayan Ghosh</h1>
 <h3 align="center">BEGINNER IN LIFE AND PROGRAMMING</h3>
 
