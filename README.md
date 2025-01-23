@@ -14,8 +14,6 @@
 <!-- <a href="https://app.daily.dev/Rajat_joshi"><img src="https://api.daily.dev/devcards/b88746ad55b249aebd019401b6a24655.png?r=8sh" width="300" alt="Rajat_Joshi's Dev Card"/></a> -->
 
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chayan-ghosh-930a2a249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chayan-ghosh-930a2a249" height="30" width="40" /></a>
