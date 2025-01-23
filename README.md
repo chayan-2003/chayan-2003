@@ -8,7 +8,7 @@
 <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=ChayanG&theme=github_dark&force_username=true&border_color=404040" alt="Chayan Codeforces Stats"/>
 </a>
 <a href="https://leetcode.com/chayanghosh185/">
-<img height="316" src="https://leetcard.jacoblin.cool/log1?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Chayan Leetcode Stats"/>
+<img height="316" src="https://leetcard.jacoblin.cool/chayanghosh185?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Chayan Leetcode Stats"/>
 </a>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
