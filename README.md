@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chayan Ghosh</h1>
-<h3 align="center">BEGINNER IN LIFE AND PROGRAMMING</h3>
+<h3 align="center">COMPETITIVE PROGRAMMER AND FULLSTACK DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayan-2003&label=Profile%20views&color=0e75b6&style=flat" alt="chayan-2003" /> </p>
 
